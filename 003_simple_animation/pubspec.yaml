@@ -1,0 +1,4 @@
+name: simple_animation
+description: Episode 3
+dependencies:
+  browser: any
