@@ -1,0 +1,4 @@
+name: random_lines
+description: Episode 1
+dependencies:
+  browser: any
