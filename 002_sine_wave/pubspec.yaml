@@ -1,0 +1,4 @@
+name: sine_wave
+description: Episode 2
+dependencies:
+  browser: any
