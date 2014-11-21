@@ -1,0 +1,4 @@
+name: arctangent
+description: Episode 5
+dependencies:
+  browser: any
