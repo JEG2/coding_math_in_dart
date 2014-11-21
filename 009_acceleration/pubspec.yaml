@@ -1,0 +1,4 @@
+name: acceleration
+description: Episode 9
+dependencies:
+  browser: any
