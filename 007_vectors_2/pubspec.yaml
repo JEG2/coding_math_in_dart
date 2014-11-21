@@ -1,0 +1,4 @@
+name: vectors_2
+description: Episode 7
+dependencies:
+  browser: any
