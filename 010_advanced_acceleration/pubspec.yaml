@@ -1,0 +1,4 @@
+name: advanced_acceleration
+description: Episode 10
+dependencies:
+  browser: any
