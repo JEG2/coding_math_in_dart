@@ -1,0 +1,4 @@
+name: velocity
+description: Episode 8
+dependencies:
+  browser: any
