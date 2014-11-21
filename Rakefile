@@ -35,6 +35,7 @@ END_HTML
 
 DART = <<END_DART
 import "dart:html";
+import "dart:math";
 
 void main() {
   var canvas  = querySelector("#screen");
